@@ -128,6 +128,36 @@ const Projects = () => {
               </a>
             </div>
           </div>
+          {/* Project 5 */}
+          <div className="bg-white p-6 rounded-lg border-4 border-black shadow-2xl transition transform hover:scale-105 flex flex-col items-center text-center">
+            <img 
+              src="watch.png" 
+              alt="Project Image" 
+              className="w-full h-48 object-cover rounded-md border-2 border-black mb-4"
+            />
+            <FontAwesomeIcon icon={faUser} className="text-4xl text-blue-600 mb-4" />
+            <h3 className="text-2xl md:text-3xl text-black font-semibold mb-4">My Website</h3>
+            <p className="mb-4">A portfolio website to showcase your work for jobs or internships.</p>
+            <div className="flex justify-center space-x-4">
+              <a 
+                href="https://github.com/Sanket-Dhage/Watch-shop" 
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block px-6 py-2 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition duration-300"
+              >
+                View Code
+              </a>
+              <a 
+                href="https://watch-shop-alpha.vercel.app/" 
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-block px-6 py-2 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700 transition duration-300"
+              >
+                Live Demo
+              </a>
+            </div>
+          </div>
+
 
         </div>
       </div>
