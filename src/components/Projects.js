@@ -78,7 +78,7 @@ const Projects = () => {
               className="w-full h-48 object-cover rounded-md border-2 border-black mb-4"
             />
             <FontAwesomeIcon icon={faUser} className="text-4xl text-blue-600 mb-4" />
-            <h3 className="text-2xl md:text-3xl text-black font-semibold mb-4">My Website</h3>
+            <h3 className="text-2xl md:text-3xl text-black font-semibold mb-4">Photography</h3>
             <p className="mb-4">This project is a visually immersive website designed to showcase photography </p>
             <div className="flex justify-center space-x-4">
               <a 
@@ -107,8 +107,8 @@ const Projects = () => {
               className="w-full h-48 object-cover rounded-md border-2 border-black mb-4"
             />
             <FontAwesomeIcon icon={faUser} className="text-4xl text-blue-600 mb-4" />
-            <h3 className="text-2xl md:text-3xl text-black font-semibold mb-4">My Website</h3>
-            <p className="mb-4">A portfolio website to showcase your work for jobs or internships.</p>
+            <h3 className="text-2xl md:text-3xl text-black font-semibold mb-4">Furnicture-shop</h3>
+            <p className="mb-4">This project is a visually immersive website designed to showcase</p>
             <div className="flex justify-center space-x-4">
               <a 
                 href="https://github.com/Sanket-Dhage/Furnicture-shop" 
@@ -136,8 +136,8 @@ const Projects = () => {
               className="w-full h-48 object-cover rounded-md border-2 border-black mb-4"
             />
             <FontAwesomeIcon icon={faUser} className="text-4xl text-blue-600 mb-4" />
-            <h3 className="text-2xl md:text-3xl text-black font-semibold mb-4">My Website</h3>
-            <p className="mb-4">A portfolio website to showcase your work for jobs or internships.</p>
+            <h3 className="text-2xl md:text-3xl text-black font-semibold mb-4">Watch-shop</h3>
+            <p className="mb-4">This project is a visually immersive website designed to showcase</p>
             <div className="flex justify-center space-x-4">
               <a 
                 href="https://github.com/Sanket-Dhage/Watch-shop" 
