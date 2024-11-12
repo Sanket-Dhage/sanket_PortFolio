@@ -88,7 +88,7 @@ const Hero = () => {
             Hire Me
           </Link>
           <a
-  href="/resume.pdf" // This points to the resume file in the public folder
+  href="/sanketdev.pdf" // This points to the resume file in the public folder
   download="resume.pdf" // This suggests a name for the file upon download
   className="bg-gray-700 text-white px-6 py-2 md:px-8 md:py-3 rounded-md shadow hover:bg-gray-800 transition-all duration-300"
 >
